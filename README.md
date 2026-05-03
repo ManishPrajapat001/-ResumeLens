@@ -19,13 +19,31 @@ ResumeLens is a Retrieval-Augmented Generation (RAG) based system that matches r
 
 ## 🏗️ Project Structure
 
- ResumeLens/ │ ├── resume_rag.py        # Resume ingestion & embedding pipeline ├── job_matcher.py       # Job matching & ranking logic ├── config.py            # Configuration (models, constants) │ ├── test_files/ │   ├── resumes/         # All resumes (TXT/PDF) │   └── jds/             # Job descriptions │ ├── chromadb_store/      # Persistent vector database ├── requirements.txt └── README.md
+ResumeLens/
+│
+├── resume_rag.py        # Resume ingestion & embedding pipeline
+├── job_matcher.py       # Job matching & ranking logic
+├── config.py            # Configuration (models, constants)
+│
+├── test_files/
+│   ├── resumes/         # All resumes (TXT/PDF)
+│   └── jds/             # Job descriptions
+│
+├── chromadb_store/      # Persistent vector database
+├── requirements.txt
+└── README.md
 
 ---
 
 ## ⚙️ Installation
 
-bash git clone <your-repo-url> cd ResumeLens  python3 -m venv venv source venv/bin/activate  # Mac/Linux  pip install -r requirements.txt 
+git clone <your-repo-url>
+cd ResumeLens
+
+python3 -m venv venv
+source venv/bin/activate  # Mac/Linux
+
+pip install -r requirements.txt
 
 ---
 
