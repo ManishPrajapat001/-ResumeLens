@@ -1,0 +1,19 @@
+Name: Neha Kulkarni
+
+Summary:
+Results-driven professional with 7+ years of experience.
+Shipped deep learning models for classification, retrieval, and document intelligence.
+
+Skills:
+Python, Deep Learning, PyTorch, TensorFlow, NLP, Kubernetes
+
+Experience:
+7+ years of experience delivering software and data solutions in cross-functional teams.
+Worked with stakeholders to define requirements, ship features, and improve measurable business outcomes.
+Built production systems, documentation, and testing practices for reliability.
+
+Projects:
+Implemented hiring and talent intelligence use cases, including search, automation, analytics, and workflow optimization.
+
+Education:
+B.Tech in Computer Science

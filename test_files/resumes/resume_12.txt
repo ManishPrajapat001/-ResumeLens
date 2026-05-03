@@ -1,0 +1,29 @@
+Neha Gupta
+Email: neha.gupta@email.com | Phone: +91-9002222222 | Pune, India
+
+PROFESSIONAL SUMMARY
+Frontend Developer with 2 years of experience building UI components and web interfaces.
+
+TECHNICAL SKILLS
+JavaScript, React, HTML, CSS
+
+EXPERIENCE
+
+Frontend Developer — SoftUI | Aug 2022 – Present
+- Built UI components using React
+- Integrated APIs
+- Fixed UI bugs and improved layout
+
+Intern — WebTech | Jan 2022 – Jul 2022
+- Developed static pages
+- Assisted in frontend development
+
+PROJECTS
+Landing Page
+- Built responsive landing page
+
+Dashboard UI
+- Designed UI with React
+
+EDUCATION
+B.Tech — DEF University (2022)

@@ -1,0 +1,19 @@
+Name: Rahul Tandon
+
+Summary:
+Results-driven professional with 5+ years of experience.
+Built REST services and workflow platforms for internal productivity.
+
+Skills:
+Python, Django, SQL, Docker, Redis, AWS
+
+Experience:
+5+ years of experience delivering software and data solutions in cross-functional teams.
+Worked with stakeholders to define requirements, ship features, and improve measurable business outcomes.
+Built production systems, documentation, and testing practices for reliability.
+
+Projects:
+Implemented hiring and talent intelligence use cases, including search, automation, analytics, and workflow optimization.
+
+Education:
+Bachelor's in Computer Science

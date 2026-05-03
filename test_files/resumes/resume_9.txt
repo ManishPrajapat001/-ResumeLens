@@ -1,0 +1,7 @@
+Amit Kumar
+Full Stack Developer with MERN experience.
+
+Skills: React, Node, MongoDB
+
+Experience:
+- Built full-stack apps

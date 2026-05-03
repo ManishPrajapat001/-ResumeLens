@@ -1,0 +1,4 @@
+Sneha Patel
+Data Analyst with some frontend exposure.
+
+Skills: Python, SQL, basic HTML

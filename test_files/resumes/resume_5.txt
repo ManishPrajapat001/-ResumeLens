@@ -1,0 +1,32 @@
+Priya Verma
+Email: priya.verma@email.com | Phone: +91-9123456780 | Delhi, India
+
+PROFESSIONAL SUMMARY
+Frontend Developer with 2+ years of experience building responsive web applications.
+
+TECHNICAL SKILLS
+Languages: JavaScript
+Frameworks: React
+Tools: HTML, CSS, Figma
+
+EXPERIENCE
+
+Frontend Developer — Webify | Aug 2022 – Present
+- Built responsive UI using React
+- Improved performance by optimizing components
+- Worked closely with backend teams
+
+PROJECTS
+
+E-commerce UI
+- Built frontend using React
+- Implemented UI components
+
+Portfolio Website
+- Designed and developed personal portfolio
+
+EDUCATION
+B.Tech in IT — ABC University (2022)
+
+ACHIEVEMENTS
+- Designed UI used by 10K+ users

@@ -1,0 +1,21 @@
+Riya Kapoor
+Email: riya.kapoor@email.com | Phone: +91-9001111111
+
+PROFESSIONAL SUMMARY
+Frontend Developer with 3 years of experience building scalable UI applications using React.
+
+TECHNICAL SKILLS
+React, JavaScript, TypeScript, CSS, HTML
+
+EXPERIENCE
+Frontend Developer — UIWorks | 2022–Present
+- Built reusable components in React
+- Reduced load time by 40%
+- Optimized performance using lazy loading
+
+PROJECTS
+E-commerce UI
+- Built React-based dashboard with real-time data
+
+EDUCATION
+B.Tech IT (2021)

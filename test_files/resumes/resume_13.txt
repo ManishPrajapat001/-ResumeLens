@@ -1,0 +1,23 @@
+Aditya Singh
+Email: aditya.singh@email.com | Phone: +91-9003333333
+
+PROFESSIONAL SUMMARY
+Full Stack Developer with 3+ years experience building scalable applications using MERN stack.
+
+TECHNICAL SKILLS
+MongoDB, Express, React, Node.js, AWS
+
+EXPERIENCE
+
+Full Stack Developer — CodeTech | 2022–Present
+- Built full-stack apps using MERN
+- Designed REST APIs
+- Improved performance by 30%
+
+PROJECTS
+Job Portal
+- Built full-stack application
+- Implemented authentication and APIs
+
+EDUCATION
+B.Tech (2021)

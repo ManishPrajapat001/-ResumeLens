@@ -1,0 +1,8 @@
+Arjun Singh
+DevOps Engineer with 3 years experience.
+
+Skills: Docker, Kubernetes, AWS
+
+Experience:
+- Built CI/CD pipelines
+- Managed cloud infrastructure

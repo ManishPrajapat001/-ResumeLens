@@ -1,0 +1,25 @@
+JOB TITLE: Frontend Developer (React)
+
+LOCATION: Delhi / Remote
+
+JOB SUMMARY
+We are looking for a skilled Frontend Developer to build high-performance, responsive web applications using React and modern UI technologies.
+
+RESPONSIBILITIES
+- Develop and maintain web applications using React
+- Build reusable UI components
+- Optimize performance and loading time
+- Integrate APIs with backend systems
+- Ensure responsive design and cross-browser compatibility
+- Work closely with designers for UI/UX improvements
+
+REQUIREMENTS
+- 2+ years experience in frontend development
+- Strong knowledge of React and JavaScript
+- Experience with HTML, CSS, and modern UI frameworks
+- Understanding of state management and component lifecycle
+
+PREFERRED QUALIFICATIONS
+- Experience with Angular or Vue.js
+- Familiarity with TypeScript
+- Knowledge of performance optimization techniques

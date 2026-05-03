@@ -1,0 +1,8 @@
+Neha Gupta
+Frontend Developer with 2 years experience.
+
+Skills: React, JavaScript, CSS
+
+Experience:
+- Developed UI components
+- Integrated APIs

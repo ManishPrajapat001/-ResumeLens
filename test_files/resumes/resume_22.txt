@@ -1,0 +1,19 @@
+Name: Pooja Nanda
+
+Summary:
+Results-driven professional with 4+ years of experience.
+Built payment and enterprise workflow services.
+
+Skills:
+Java, Spring, SQL, AWS, Docker
+
+Experience:
+4+ years of experience delivering software and data solutions in cross-functional teams.
+Worked with stakeholders to define requirements, ship features, and improve measurable business outcomes.
+Built production systems, documentation, and testing practices for reliability.
+
+Projects:
+Implemented hiring and talent intelligence use cases, including search, automation, analytics, and workflow optimization.
+
+Education:
+Bachelor's in Computer Science

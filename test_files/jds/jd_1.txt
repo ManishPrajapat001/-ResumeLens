@@ -1,0 +1,26 @@
+JOB TITLE: Backend Engineer (Python)
+
+LOCATION: Bangalore / Remote
+
+JOB SUMMARY
+We are looking for a Backend Engineer with strong experience in Python to design and build scalable backend systems. The ideal candidate should be comfortable working with APIs, databases, and distributed systems.
+
+RESPONSIBILITIES
+- Design and develop REST APIs using Python (Flask or FastAPI)
+- Build scalable backend services and microservices
+- Optimize database queries and improve system performance
+- Work with PostgreSQL/MySQL and caching systems like Redis
+- Collaborate with frontend engineers and product teams
+- Ensure code quality, testing, and documentation
+
+REQUIREMENTS
+- 2+ years experience in backend development
+- Strong knowledge of Python and SQL
+- Experience with Flask or FastAPI
+- Understanding of REST architecture
+- Familiarity with Docker and Git
+
+PREFERRED QUALIFICATIONS
+- Experience with Redis or caching
+- Exposure to cloud platforms (AWS/GCP)
+- Knowledge of system design and scalability

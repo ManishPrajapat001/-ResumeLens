@@ -1,0 +1,19 @@
+Name: Aarav Mehta
+
+Summary:
+Results-driven professional with 8+ years of experience.
+Built LLM-powered recommendation systems and NLP pipelines for hiring and search platforms.
+
+Skills:
+Python, Machine Learning, NLP, LLM, AWS, Docker, FastAPI
+
+Experience:
+8+ years of experience delivering software and data solutions in cross-functional teams.
+Worked with stakeholders to define requirements, ship features, and improve measurable business outcomes.
+Built production systems, documentation, and testing practices for reliability.
+
+Projects:
+Implemented hiring and talent intelligence use cases, including search, automation, analytics, and workflow optimization.
+
+Education:
+M.S. in Computer Science

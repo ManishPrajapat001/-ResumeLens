@@ -1,0 +1,18 @@
+Sneha Patel
+Email: sneha@email.com
+
+PROFESSIONAL SUMMARY
+Data Analyst with expertise in Python, SQL, and data visualization.
+
+SKILLS
+Python, SQL, Pandas, Power BI
+
+EXPERIENCE
+- Built dashboards
+- Analyzed large datasets
+
+PROJECTS
+Sales Prediction Model
+
+EDUCATION
+B.Sc Data Science

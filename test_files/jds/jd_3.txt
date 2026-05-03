@@ -1,0 +1,24 @@
+JOB TITLE: Full Stack Developer (MERN)
+
+LOCATION: Remote
+
+JOB SUMMARY
+We are seeking a Full Stack Developer with experience in the MERN stack to build scalable web applications and APIs.
+
+RESPONSIBILITIES
+- Develop full-stack applications using MongoDB, Express, React, and Node.js
+- Build REST APIs and integrate with frontend
+- Design database schemas and optimize performance
+- Work on both frontend and backend features
+- Ensure application scalability and reliability
+
+REQUIREMENTS
+- 2+ years experience in full stack development
+- Strong knowledge of JavaScript and Node.js
+- Experience with React and MongoDB
+- Understanding of REST APIs and web architecture
+
+PREFERRED QUALIFICATIONS
+- Experience with cloud platforms (AWS)
+- Knowledge of Docker and CI/CD pipelines
+- Familiarity with testing frameworks

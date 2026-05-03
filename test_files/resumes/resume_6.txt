@@ -1,0 +1,35 @@
+Ankit Jain
+Email: ankit.jain@email.com | Phone: +91-9001122334 | Jaipur, India
+
+PROFESSIONAL SUMMARY
+Software Engineer with experience in Python scripting and automation tools.
+
+TECHNICAL SKILLS
+Languages: Python
+Tools: Automation, Scripting, Linux
+Concepts: Data Processing, Scripting
+
+EXPERIENCE
+
+Automation Engineer — AutoSoft | Jan 2022 – Present
+- Developed automation scripts using Python
+- Built data processing pipelines
+- Reduced manual work by 30%
+
+Intern — ScriptLabs | Jul 2021 – Dec 2021
+- Worked on automation tools
+- Assisted in script development
+
+PROJECTS
+
+Automation Tool
+- Built Python scripts for task automation
+
+Data Processing Tool
+- Developed scripts for data cleaning
+
+EDUCATION
+B.Tech in Computer Science — XYZ University (2021)
+
+ACHIEVEMENTS
+- Improved efficiency using automation tools

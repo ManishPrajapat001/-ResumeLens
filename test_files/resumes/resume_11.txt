@@ -1,0 +1,41 @@
+Riya Kapoor
+Email: riya.kapoor@email.com | Phone: +91-9001111111 | Delhi, India
+
+PROFESSIONAL SUMMARY
+Frontend Developer with 3+ years experience building scalable web applications using React and modern UI frameworks. Strong focus on performance optimization and UI/UX.
+
+TECHNICAL SKILLS
+Languages: JavaScript, TypeScript
+Frameworks: React, Redux
+Styling: CSS, Tailwind, Bootstrap
+Tools: Git, Figma, Chrome DevTools
+Concepts: Performance Optimization, Responsive Design
+
+EXPERIENCE
+
+Frontend Developer — UIWorks Pvt Ltd | Jul 2022 – Present
+- Developed reusable UI components using React
+- Reduced page load time by 40% using lazy loading
+- Built dashboards with real-time updates
+- Improved accessibility and UI consistency
+
+Frontend Intern — PixelTech | Jan 2021 – Jun 2022
+- Built responsive layouts
+- Worked on API integration
+- Improved UI performance
+
+PROJECTS
+
+E-commerce Dashboard
+- Built using React and Chart.js
+- Implemented analytics and reporting
+
+Portfolio Website
+- Designed responsive UI with animations
+
+EDUCATION
+B.Tech IT — ABC University (2021)
+
+ACHIEVEMENTS
+- Built UI used by 20K+ users
+- Improved performance metrics significantly

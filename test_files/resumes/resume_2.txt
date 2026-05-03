@@ -1,0 +1,43 @@
+Rohit Verma
+Email: rohit.verma@email.com | Phone: +91-9871112233 | Pune, India
+
+PROFESSIONAL SUMMARY
+Backend Developer with 2+ years of experience building APIs and backend services using Python.
+Strong understanding of databases and scalable systems.
+
+TECHNICAL SKILLS
+Languages: Python, SQL
+Frameworks: FastAPI, Flask
+Databases: PostgreSQL
+Tools: Docker, Git
+Concepts: REST APIs, Backend Development
+
+EXPERIENCE
+
+Backend Developer — SoftTech Pvt Ltd | Aug 2022 – Present
+- Built backend APIs using FastAPI
+- Designed database schemas using PostgreSQL
+- Integrated APIs with frontend applications
+- Worked on authentication and authorization
+
+Junior Developer — DevWorks | Jan 2021 – Jul 2022
+- Assisted in backend API development
+- Maintained database queries
+- Worked on debugging and optimization
+
+PROJECTS
+
+Task Management API
+- Developed REST API using FastAPI
+- Implemented CRUD operations and authentication
+
+Blog Backend
+- Built backend using Flask
+- Designed database schema and queries
+
+EDUCATION
+B.Tech in IT — ABC University (2020)
+
+ACHIEVEMENTS
+- Delivered backend features under tight deadlines
+- Built scalable APIs for production systems

@@ -1,0 +1,24 @@
+JOB TITLE: DevOps Engineer
+
+LOCATION: Pune / Remote
+
+JOB SUMMARY
+We are seeking a DevOps Engineer to manage infrastructure, CI/CD pipelines, and deployment systems.
+
+RESPONSIBILITIES
+- Build and maintain CI/CD pipelines
+- Manage cloud infrastructure (AWS)
+- Work with Docker and Kubernetes
+- Monitor system performance and reliability
+- Automate deployment processes
+
+REQUIREMENTS
+- 2+ years experience in DevOps
+- Experience with Docker and Kubernetes
+- Knowledge of AWS or cloud platforms
+- Familiarity with CI/CD tools like Jenkins
+
+PREFERRED QUALIFICATIONS
+- Experience with Terraform or infrastructure as code
+- Knowledge of monitoring tools (Prometheus, Grafana)
+- Scripting skills (Python/Bash)
