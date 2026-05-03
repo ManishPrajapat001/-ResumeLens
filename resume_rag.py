@@ -201,7 +201,7 @@ def store_resumes(resumes, collection, model):
 #  Main
 if __name__ == "__main__":
 
-    folder_path = "test_files"
+    folder_path = "test_files/resumes"
 
     print("Loading resumes...")
 
